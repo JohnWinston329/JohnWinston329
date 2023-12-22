@@ -19,8 +19,8 @@
 <details>
   <summary><b>:computer: &nbsp;Main tech knowledge</b></summary>
   <br/>
-![C#] (https://img.shields.io/badge/C%23-239120.svg?&style=flat&logo=c-sharp&logoColor=white)&nbsp;
-![.NET] (https://img.shields.io/badge/.NET-512BD4.svg?&style=flat&logo=.net&logoColor=white)&nbsp;
+![C#](https://img.shields.io/badge/C%23-239120.svg?&style=flat&logo=c-sharp&logoColor=white)&nbsp;
+![.NET](https://img.shields.io/badge/.NET-512BD4.svg?&style=flat&logo=.net&logoColor=white)&nbsp;
 ![Angular](https://img.shields.io/badge/ANGULAR-DD0031.svg?&style=flat&logo=angular&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/React-61DAFB.svg?&style=flat&logo=react&logoColor=white)&nbsp;\
 ![Flutter](https://img.shields.io/badge/FLUTTER-02569B.svg?&style=flat&logo=flutter&logoColor=white) &nbsp;
